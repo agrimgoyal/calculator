@@ -1,0 +1,57 @@
+.heading {
+    font-family: sans-serif;
+    font-size: 2rem;
+    text-align: center;
+}
+.heading h1 {
+    margin-top: 3rem;
+    color: brown;
+}
+
+.main {
+    margin: 7.5rem auto auto auto;
+    width: 28%;
+    height: 36rem;
+    padding: 4rem 0 4rem 0;
+    background-color: white;
+    filter: drop-shadow(lightgrey 0px 0px 5px);
+}
+
+.screen {
+    margin: 0rem auto auto auto;
+    width: 75%;
+    height: 5.8rem;
+    border-radius: 1rem;
+    background-color: white;
+    filter: drop-shadow(lightgrey 0px 3px 5px);
+    display: flex;
+    text-align: center;
+}
+.screen p {
+    font-size: 3rem;
+    font-weight: bold;
+    margin: auto 10% auto auto;
+}
+
+.all_buttons {
+    margin: 0.7rem auto auto auto;
+    width: 75%;
+    height: 6rem;
+    display: flex;
+}
+
+.button {
+    margin: 0.5rem auto 0 auto;
+    width: 22.5%;
+    height: 6rem;
+    border-radius: 1rem;
+    background-color: white;
+    filter: drop-shadow(lightgrey 0px 0px 5px);
+    text-align: center;
+}
+.button p{
+    font-size: 2rem;
+    font-weight: bold;
+    align-items: center;
+    margin: 32% auto auto auto;
+}
